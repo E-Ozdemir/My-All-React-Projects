@@ -27,5 +27,11 @@
             <td><a href="https://e-ozdemir.github.io/Language-Cards/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Language-Cards/blob/master/Overview.png" alt="html" height=130></td> 
         </tr>
+         <tr>
+            <td>Breaking Bad Api</td>
+            <td><a href="https://github.com/E-Ozdemir/Braking-Bad-Api.git" target="_blank">Repo details</a></td>
+            <td><a href="https://e-ozdemir.github.io/Braking-Bad-Api/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Braking-Bad-Api/blob/master/Breaking%20Bad%20Api.gif" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
