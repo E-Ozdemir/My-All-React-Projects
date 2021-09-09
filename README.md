@@ -8,10 +8,10 @@
 <table>
     <thead>
         <tr>
-            <td>Project Name</td>
-            <td>Repo Link</td>
-            <td>App Link</td>
-            <td>Overview</td>
+            <td align="center">Project Name</td>
+            <td align="center">Repo Link</td>
+            <td align="center">App Link</td>
+            <td align="center">Overview</td>
         </tr>
     </thead>
     <tbody> 
