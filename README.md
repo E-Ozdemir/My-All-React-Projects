@@ -39,5 +39,12 @@
             <td><a href="https://e-ozdemir.github.io/Random-User-App/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Random-User-App/blob/master/Random%20User.gif" alt="html" height=130></td> 
         </tr>
+        <tr>
+            <td>Clrswy with React-Router</td>
+            <td><a href="https://github.com/E-Ozdemir/Clarusway-web-page-with-router.git" target="_blank">Repo details</a></td>
+            <td><a href="https://web-site-with-router.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Clarusway-web-page-with-router/blob/master/clarusway-web-page-with-router.gif" alt="html" height=130></td> 
+        </tr>
+      
 </tbody>
 </table>
