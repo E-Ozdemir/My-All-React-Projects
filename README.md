@@ -1,10 +1,7 @@
 # My-All-React-Projects
 <p align="center"> 
-
 <h1 align="center">Index of React Projects</h1>
-
 </p>
-
 <table>
     <thead>
         <tr>
@@ -15,12 +12,17 @@
         </tr>
     </thead>
     <tbody> 
-        
         <tr>
             <td>Movie-App</td>
             <td><a href="https://github.com/E-Ozdemir/Movie-App.git" target="_blank">Repo details</a></td>
             <td><a href="https://react-movapp.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Movie-App/blob/master/movie_app/movie-app.gif" alt="html" height=130></td> 
+        </tr>
+        <tr>
+            <td>Task Tracker</td>
+            <td><a href="https://github.com/E-Ozdemir/Task-Tracker.git" target="_blank">Repo details</a></td>
+            <td><a href="https://to-do-task-application.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Tour-Places</td>
