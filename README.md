@@ -13,6 +13,12 @@
     </thead>
     <tbody> 
         <tr>
+            <td>Firebase Contact App</td>
+            <td><a href="https://github.com/E-Ozdemir/FireContact-App" target="_blank">Repo details</a></td>
+            <td><a href="https://firecontact-app.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="https://github.com/E-Ozdemir/FireContact-App/blob/master/firecontact-class-session/firecontact.gif" alt="html" height=130></td> 
+        </tr>
+        <tr>
             <td>Movie-App</td>
             <td><a href="https://github.com/E-Ozdemir/Movie-App.git" target="_blank">Repo details</a></td>
             <td><a href="https://react-movapp.herokuapp.com/" target="_blank">Click here to see the project</a></td>
