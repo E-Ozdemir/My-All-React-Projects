@@ -28,7 +28,7 @@
             <td>Task Tracker</td>
             <td><a href="https://github.com/E-Ozdemir/Task-Tracker.git" target="_blank">Repo details</a></td>
             <td><a href="https://to-do-task-application.herokuapp.com/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Task-Tracker/blob/master/Task%20Tracker.gif" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Tour-Places</td>
